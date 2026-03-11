@@ -1,1 +1,43 @@
+EXPERIMENT NO: 2
+Write a program to implement control flow statements and looping statements in python.
 
+ALGORITHM:
+STEP 1 : Start the program.
+STEP 2 : Repeat the process for 5 players using a loop.
+STEP 3 : Display a message asking the user to enter the details of the player.
+STEP 4 : Read the following inputs from the user:
+         > Player name
+         > Runs scored
+         > Balls faced
+         > Wickets taken
+         > Runs conceded while bowling
+         > Number of overs bowled
+         > Number of catches taken
+STEP 5 : Calculate the strike rate using the formula: Strike Rate = (Runs ÷ Balls) × 100.
+STEP 6 : Calculate the economy rate using the formula: Economy = Runs Conceded ÷ Overs Bowled.
+STEP 7 : Determine the batting performance based on runs and strike rate.
+STEP 8 : Determine the bowling performance based on wickets taken and economy rate.
+STEP 9 : Determine the fielding performance based on the number of catches.
+STEP 10 : Based on batting and bowling results, decide the all-rounder performance level.
+STEP 11 : Display the player’s name, strike rate, economy rate, batting category,
+          bowling category, fielding category, and all-rounder decision.
+STEP 12 : Repeat the process until all 5 players are evaluated.
+STEP 13 : Stop the program.
+
+
+Output:
+Player Name: akash
+Runs scored: 23
+Balls faced: 4
+Wickets taken: 2
+Runs conceded: 67
+Overs bowled: 3
+Catches taken: 1
+
+Name: akash
+Strike Rate: 575.00
+Economy Rate: 22.33
+Batting Performance: Average Batter
+Bowling Performance: Average Bowler
+Fielding Performance: Active Fielder
+All-Rounder Rating: Needs Development
