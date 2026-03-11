@@ -1,1 +1,58 @@
+EXPERIMENT NO: 3
+Write a program to demonstrate fundamental string operations including
+concatenation, slicing, indexing, and various built-in string methods in Python.
 
+ALGORITHM :
+STEP 1 : Start the program.
+STEP 2 : Read a main string and a substring from the user.
+STEP 3 : Demonstrate Basic Operations:
+         > Concatenation (+)
+         > Repetition (*)
+         > Length calculation (len())
+STEP 4 : Demonstrate Slicing and Indexing:
+         > Access first and last characters.
+         > Slice the string from a specific range.
+         > Reverse the string using slicing [::-1].
+STEP 5 : Demonstrate Built-in String Methods:
+         > Case conversions (upper, lower, title, swapcase).
+         > Search and Replace (find, replace, count).
+         > Content checking (isalpha, isdigit, isspace).
+STEP 6 : Demonstrate Splitting and Joining operations.
+STEP 7 : Display the results of each operation clearly.
+STEP 8 : Stop the program.
+
+Output:
+Enter a main string: 5
+Enter a substring to search for: 3
+
+[1] Basic Operations:
+Original String:  '5'
+Length of String: 1
+Concatenation:    5 is Fun!
+Repetition (x2):  55
+
+[2] Slicing and Indexing:
+First Character:  5
+Last Character:   5
+Slice (0 to 5):   5
+Reversed String:  5
+
+[3] String Methods (Transformation):
+Uppercase:        5
+Lowercase:        5
+Title Case:       5
+Swap Case:        5
+
+[4] Search and Replace:
+Count of '3': 0
+Find '3' index: -1
+Replace '3' with 'Java': 5
+
+[5] Boolean Checks:
+Is Alphabetic?    False
+Is Digit?         True
+Starts with 'P'?  False
+
+[6] Split and Join:
+Split into List:  ['5']
+Joined with '-':  5
