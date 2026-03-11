@@ -32,7 +32,3 @@ print("\n" + "="*40)
 print("Code Execution Successful")
 print("="*40)
 
-=== Code Execution Successful ===
--------------------------------------------------------------------------------
-
-"""
