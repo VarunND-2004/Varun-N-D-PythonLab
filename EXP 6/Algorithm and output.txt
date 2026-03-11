@@ -1,1 +1,49 @@
+EXPERIMENT NO: 6
+Write a program to create a dictionary, perform basic operations like
+accessing, adding, updating, and deleting key-value pairs, and demonstrate
+the use of built-in dictionary methods.
 
+
+ALGORITHM :
+STEP 1 : Start the program.
+STEP 2 : Create a dictionary 'student' with keys: Name, Roll_No, Course, and Marks.
+STEP 3 : Access values using keys and the get() method.
+STEP 4 : Update an existing value (e.g., update Marks).
+STEP 5 : Add a new key-value pair (e.g., add 'Grade').
+STEP 6 : Demonstrate Deletion:
+         > Use pop() to remove a specific key.
+         > Use del to remove an item.
+STEP 7 : Use Built-in Methods:
+         > keys() to get all keys.
+         > values() to get all values.
+         > items() to get key-value pairs.
+STEP 8 : Iterate through the dictionary using a loop.
+STEP 9 : Clear the dictionary and stop the program.
+
+
+Output:
+Initial Dictionary: {'Name': 'Rahul', 'Roll_No': 101, 'Course': 'Data Science', 'Marks': 85}
+
+[1] Accessing Data:
+Student Name:      Rahul
+Course (using get): Data Science
+
+[2] Modifying Dictionary:
+After Update & Add: {'Name': 'Rahul', 'Roll_No': 101, 'Course': 'Data Science', 'Marks': 92, 'Grade': 'A'}
+
+[3] Dictionary Methods:
+All Keys:   ['Name', 'Roll_No', 'Course', 'Marks', 'Grade']
+All Values: ['Rahul', 101, 'Data Science', 92, 'A']
+All Items:  [('Name', 'Rahul'), ('Roll_No', 101), ('Course', 'Data Science'), ('Marks', 92), ('Grade', 'A')]
+
+[4] Removing Data:
+After pop('Roll_No'): {'Name': 'Rahul', 'Course': 'Data Science', 'Marks': 92, 'Grade': 'A'}
+Popped Value: 101
+
+[5] Iterating through Dictionary:
+Name: Rahul
+Course: Data Science
+Marks: 92
+Grade: A
+
+After clear(): {} (Empty)
