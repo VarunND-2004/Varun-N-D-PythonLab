@@ -1,0 +1,12 @@
+PROBLEM STATEMENT:
+a) Write a program to implement numpy and pandas packages.
+
+ALGORITHM:
+Step 1 : Start the program.
+Step 2 : Import numpy and pandas.
+Step 3 : Create two NumPy arrays.
+Step 4 : Perform addition and multiplication.
+Step 5 : Create a Pandas Series.
+Step 6 : Create a Pandas DataFrame.
+Step 7 : Display all outputs.
+Step 8 : Stop the program.

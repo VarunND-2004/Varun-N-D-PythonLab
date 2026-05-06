@@ -1,0 +1,17 @@
+OUTPUT:
+Array A: [1 2 3]
+Array B: [4 5 6]
+Addition: [5 7 9]
+Multiplication: [ 4 10 18]
+
+Pandas Series:
+0    100
+1    200
+2    300
+
+Pandas DataFrame:
+  Product  Price
+0     Pen     10
+1    Book     50
+2     Bag    500
+

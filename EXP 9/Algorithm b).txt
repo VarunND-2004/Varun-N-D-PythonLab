@@ -1,0 +1,22 @@
+PROBLEM STATEMENT:
+b. Write a program to implement Matplotlib and Pandas libraries in python
+
+ALGORITHM:
+Step 1: Start
+Step 2: Import Libraries
+        *Import pandas
+        *Import matplotlib
+Step 3: Create Dataset
+       *Define data using a dictionary (e.g., student names and marks)
+Step 4: Create DataFrame
+        *Convert the dictionary into a DataFrame using Pandas
+Step 5: Display Data
+        *Print the DataFrame
+Step 6: Plot Graph
+        *Use Matplotlib to create a bar chart
+        *Set X-axis as names and Y-axis as marks
+Step 7: Add Labels
+       *Add title, X-label, and Y-label
+Step 8: Display Graph
+       *Show the graph using plotting function
+Step 9: Stop

@@ -1,0 +1,17 @@
+PROBLEM STATEMENT:
+a. Write Program to Load, Clean and Exploring the data using python.
+
+Algorithm :
+1.Start
+2.Import pandas library
+3.Read the dataset from CSV file using read_csv()
+4.Store the data in a DataFrame
+5.Display first few rows using head()
+6.Display structure of data using info()
+7.Display statistical summary using describe()
+8.Find total number of rows and columns using shape
+9.Check for missing values using isnull().sum()
+10.Handle missing values using fillna() or dropna()
+11.Remove duplicate records using drop_duplicates()
+12.Display cleaned data
+13.Stop

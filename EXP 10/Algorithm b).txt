@@ -1,0 +1,22 @@
+PROBLEM STATEMENT:
+b. Write a Program to implement various types of visualization in python.
+
+Algorithm:
+step 1 : Start
+step 2 : Import pandas and matplotlib libraries
+step 3 : Create or load dataset
+step 4 : Store the data in a DataFrame
+step 5 : Display the dataset
+step 6 : Plot Line Graph using plot()
+step 7 : Add title and labels to line graph
+step 8 : Display the line graph using show()
+step 9 : Plot Bar Chart using bar()
+step 10 : Add title and labels to bar chart
+step 11 : Display the bar chart using show()
+step 12 : Plot Pie Chart using pie()
+step 13 : Add title to pie chart
+step 14 : Display the pie chart using show()
+step 15 : Plot Histogram using hist()
+step 16 : Add title and labels to histogram
+atep 17 : Display all the graphs using show()
+step 18 : Stop
